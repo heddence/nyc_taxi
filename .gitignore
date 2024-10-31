@@ -1,0 +1,13 @@
+venv
+
+**/.ipynb_checkpoints
+**/__pycache__
+
+.idea
+
+**/*.egg-info
+**/build
+
+ny_taxi/logs
+
+/data/predictions.csv

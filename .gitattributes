@@ -1,0 +1,7 @@
+data/humidity.tar.gz filter=lfs diff=lfs merge=lfs -text
+data/pressure.tar.gz filter=lfs diff=lfs merge=lfs -text
+data/temperature.tar.gz filter=lfs diff=lfs merge=lfs -text
+data/test.tar.gz filter=lfs diff=lfs merge=lfs -text
+data/train.tar.gz filter=lfs diff=lfs merge=lfs -text
+data/wind_direction.tar.gz filter=lfs diff=lfs merge=lfs -text
+data/wind_speed.tar.gz filter=lfs diff=lfs merge=lfs -text
