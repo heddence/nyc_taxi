@@ -48,10 +48,13 @@ enabling you to import its modules directly into any Python code.
 
 1. Clone the Repository:
 ```bash
-git clone https://github.com/heddence/nyc_taxi_predictions.git
-cd nyc_taxi_predictions
+git clone https://github.com/heddence/nyc_taxi.git
 ```
-2. Install the Package:
+2. Choose main project folder
+```bash
+cd nyc_taxi
+```
+3. Install the Package:
 ```bash
 pip install .
 ```
